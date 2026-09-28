@@ -2,22 +2,34 @@
   "discord_webhook_url": "https://discord.com/api/webhooks/1554091104377507932/WKMa8LegHWqgIWMpw4dlsA1t1bxEyMRy9Roxzc8JTUNtJTMqX9Q3dfjWCQ2qvNIK0sB5",
   "product_url": "https://www.kmonstar.com.tw/products/261017-ourbirthday-1st-single-album-our-birthday-11-%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%90%88%E7%85%A7%E6%B4%BB%E5%8B%95-in-taipei.json",
   "variants": [
-    { "variant_id": 11111111111, "custom_name": "成員A" },
-    { "variant_id": 22222222222, "custom_name": "成員B" },
-    { "variant_id": 33333333333, "custom_name": "成員C" },
-    { "variant_id": 44444444444, "custom_name": "成員D" },
-    { "variant_id": 55555555555, "custom_name": "成員E" }
+    { "variant_id": 89340903, "custom_name": "국초록 KUK CHOROK" },
+    { "variant_id": 89340906, "custom_name": "신혜원 SHIN HYEWON" },
+    { "variant_id": 89340907, "custom_name": "조혜진 CHO HYEJIN" },
+    { "variant_id": 89340908, "custom_name": "유 U" },
+    { "variant_id": 89340909, "custom_name": "베이비 BABY" },
+    { "variant_id": 89340910, "custom_name": "아치라야 ACHIRAYA" },
+    { "variant_id": 89340911, "custom_name": "키라라 KILALA" }
   ],
   "schedules": [
     {
-      "start": "2026-09-22 14:00",
-      "end": "2026-09-27 23:59",
+      "start": "2026-09-28 14:00",
+      "end": "2026-10-04 00:00",
       "interval_minutes": 240
     },
     {
-      "start": "2026-09-28 00:00",
-      "end": "2026-09-28 23:59",
+      "start": "2026-10-04 00:00",
+      "end": "2026-10-04 21:00",
       "interval_minutes": 30
+    },
+    {
+      "start": "2026-10-04 21:00",
+      "end": "2026-10-04 23:00",
+      "interval_minutes": 15
+    },
+    {
+      "start": "2026-10-04 23:00",
+      "end": "2026-10-05 00:00",
+      "interval_minutes": 5
     }
   ]
 }
